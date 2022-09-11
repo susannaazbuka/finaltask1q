@@ -1,0 +1,15 @@
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\bin\Debug\net6.0\finaltask1q.exe
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\bin\Debug\net6.0\finaltask1q.deps.json
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\bin\Debug\net6.0\finaltask1q.runtimeconfig.json
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\bin\Debug\net6.0\finaltask1q.dll
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\bin\Debug\net6.0\finaltask1q.pdb
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.csproj.AssemblyReference.cache
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.AssemblyInfoInputs.cache
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.AssemblyInfo.cs
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.csproj.CoreCompileInputs.cache
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.dll
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\refint\finaltask1q.dll
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.pdb
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\finaltask1q.genruntimeconfig.cache
+C:\Users\sagajanyan001\Desktop\FinalTask_1q\finaltask1q\obj\Debug\net6.0\ref\finaltask1q.dll

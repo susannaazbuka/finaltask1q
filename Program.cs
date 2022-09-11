@@ -5,6 +5,9 @@ array1 = inputStrings.Split(' ');
 
 string[] array2 = new string[array1.Length];
 
+FillSecondArray(array1, array2);
+PrintArray(array2);
+
 void FillSecondArray(string[] array1, string[] array2)
 {
     int i = 0;
@@ -12,10 +15,10 @@ void FillSecondArray(string[] array1, string[] array2)
     {
         if (array1[j].Length <= 3)
             {
-            array2[i] = array1[j];
-            i++;
+                array2[i] = array1[j];
+                i++;
             }
-        }
+    }
 }
 
 void PrintArray(string[] array)
@@ -26,6 +29,3 @@ void PrintArray(string[] array)
         Console.Write($"{array[i]} ");
     }
 }
-
-FillSecondArray(array1, array2);
-PrintArray(array2);
